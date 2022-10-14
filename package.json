@@ -2,7 +2,7 @@
   "name": "latihandep",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "engine":{
     "node": "16.x"
   },
